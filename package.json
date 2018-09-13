@@ -1,6 +1,6 @@
 {
-	"author": "Ludmila Vozdvizhenskaya",
-	"name": "fcc-learn-npm-package-json",
+	"author": "Vozdvizhenskaya Ludmila",
+	"name": "fcc-learn-npm-package-json",  
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -14,5 +14,10 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+  "description": "A project that does something awesome",
+  "keywords": [ "descriptive", "related", "freecodecamp" ],
+  "license": "LNV",
+  "version": "1.0"
+
 }
